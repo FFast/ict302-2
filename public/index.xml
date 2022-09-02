@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Aug 2022 15:33:00 -0400</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ZachSchell Post</title>
+      <link>http://example.org/posts/zachschell-post/</link>
+      <pubDate>Wed, 31 Aug 2022 15:33:00 -0400</pubDate>
+      
+      <guid>http://example.org/posts/zachschell-post/</guid>
+      <description>This Markdown language is interesting. Zach Schell
+Start of Hugo Date: 8/21/2022 Today within Hugo we started an made the first post of content. This is all one content of a post, but the attributes can be diifrent.
+We have a title attribute, the date, and this body text.
+This is kinda cool once you get the hang of it -Zach Schell</description>
+    </item>
+    
+    <item>
+      <title>Griff First Post</title>
+      <link>http://example.org/posts/griff-first-post/</link>
+      <pubDate>Wed, 31 Aug 2022 15:24:47 -0400</pubDate>
+      
+      <guid>http://example.org/posts/griff-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
