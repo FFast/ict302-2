@@ -2,3 +2,6 @@ baseURL = 'https://clinquant-capybara-cbf8a8.netlify.app/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'ananke'
+
+[markup.goldmark.renderer]
+    unsafe = true
