@@ -13,7 +13,7 @@ draft: false
 </br>
 Steps for a blog post-
 </br>
-Idea in someone’s head for a post (anyone) > Creative team for approval to continue (all of creative team) > Author Assigned (Blog Manager) > Writing a rough draft (Author) > Rough draft edit (Editor) > Pith to creative team to continue (Author) > Revise draft (Author) > Edit draft (Editor) > Final Edit (Editor) > Write initial blog post (Web Designer) > Send final edit of post to blog manager (Editor) > Approves final draft (Blog Manager) > Send final script for upload (web designer) > Upload post to the local server (Web Designer) > Pitch full post to team (Author) > Published post on website (Web Designer)
+&emsp Idea in someone’s head for a post (anyone) > Creative team for approval to continue (all of creative team) > Author Assigned (Blog Manager) > Writing a rough draft (Author) > Rough draft edit (Editor) > Pith to creative team to continue (Author) > Revise draft (Author) > Edit draft (Editor) > Final Edit (Editor) > Write initial blog post (Web Designer) > Send final edit of post to blog manager (Editor) > Approves final draft (Blog Manager) > Send final script for upload (web designer) > Upload post to the local server (Web Designer) > Pitch full post to team (Author) > Published post on website (Web Designer)
 </br>
 Responsibilities-
 </br>
@@ -22,6 +22,9 @@ I could see many revision steps being looped back between the author and the edi
 External Software-
 </br>
 	A word processor, like Word, would be used to make sure off the bat no grammatical mistypes happened in the writing. A cloud system like OneDrive, Google Drive, or Dropbox, would be used to share that file between the author and the editor and the web designer. A text editor to make the blog post to go onto the server such as Atom. A file sharing for the server like FileZilla. Some sort of communication for a calendar and to do list like a Microsoft Teams, Asana, Basecamp.
+</br>
+Hugo Attributes-
+  These attributes
 </br>
 Considerations-
 </br>
