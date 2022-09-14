@@ -7,7 +7,7 @@ draft: false
 <head>
 <style>
 .heading{
-  text-alignment: center;
+  text-align: center;
 }
 </style>
 </head>
