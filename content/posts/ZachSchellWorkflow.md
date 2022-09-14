@@ -5,6 +5,7 @@ draft: false
 ---
 <html>
 <p>
+**This was made in html**
 Steps for a blog post-
 <br>
 Idea in someone’s head for a post (anyone) > Creative team for approval to continue (all of creative team) > Author Assigned (Blog Manager) > Writing a rough draft (Author) > Rough draft edit (Editor) > Pith to creative team to continue (Author) > Revise draft (Author) > Edit draft (Editor) > Final Edit (Editor) > Write initial blog post (Web Designer) > Send final edit of post to blog manager (Editor) > Approves final draft (Blog Manager) > Send final script for upload (web designer) > Upload post to the local server (Web Designer) > Pitch full post to team (Author) > Published post on website (Web Designer)
