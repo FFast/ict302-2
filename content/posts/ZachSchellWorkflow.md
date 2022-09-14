@@ -9,6 +9,7 @@ draft: false
 .heading{
   text-align: center;
   text-decoration: underline;
+  font-style: italic;
 
 }
 </style>
@@ -17,7 +18,7 @@ draft: false
 
 <p>
 <div class="heading">
-  <em>This was made in html</em>
+  This was made in html
 </div>
 
 
