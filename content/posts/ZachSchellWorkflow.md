@@ -40,7 +40,7 @@ Steps for a blog post-
 
 Responsibilities-
 </br>
-<blockquote>I could see many revision steps being looped back between the author and the editors to get the post worded properly before the post could be published to the site. A team on ideas for posts are probably selected so people and resources aren’t being used until an idea is thought out and selected to be written for the site. There could be one or multiple authors and editors as well as different people who would upload the files to the server but all doing the same job. Where an idea comes from could be anyone really, who gives an idea to the a creative team. The Blog Manager or a project manager would be the person to regulate how the editor and author are getting along to make sure deadlines are made and also to make sure files to be uploaded get where they should be.</blockquote>
+<blockquote>I could see steps seven and eight being looped back between the author and the editors to get the post worded properly before the post could be published to the site. A team on ideas for posts are probably selected so people and resources aren’t being used until an idea is thought out and selected to be written for the site. There could be one or multiple authors and editors as well as different people who would upload the files to the server but all doing the same job. Where an idea comes from could be anyone really, who gives an idea to the a creative team. The Blog Manager or a project manager would be the person to regulate how the editor and author are getting along to make sure deadlines are made and also to make sure files to be uploaded get where they should be.</blockquote>
 </br>
 
 External Software-
@@ -54,7 +54,7 @@ Hugo Attributes-
 
 Considerations-
 </br>
-<blockquote>Having a collective teams are best for deciding ideas as a pre run trial to even see if the idea catches attention.</blockquote>
+<blockquote>Having a collective teams are best for deciding ideas as a pre run trial to even see if the idea catches attention. Also taking into consideration storage space for how much can be on a post would come into play.</blockquote>
 </br>
 </p>
 </html>
