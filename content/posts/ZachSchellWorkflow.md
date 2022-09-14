@@ -17,7 +17,25 @@ draft: false
 </br>
 Steps for a blog post-
 </br>
-<blockquote>Idea in someone’s head for a post (anyone) > Creative team for approval to continue (all of creative team) > Author Assigned (Blog Manager) > Writing a rough draft (Author) > Rough draft edit (Editor) > Pith to creative team to continue (Author) > Revise draft (Author) > Edit draft (Editor) > Final Edit (Editor) > Write initial blog post (Web Designer) > Send final edit of post to blog manager (Editor) > Approves final draft (Blog Manager) > Send final script for upload (web designer) > Upload post to the local server (Web Designer) > Pitch full post to team (Author) > Published post on website (Web Designer)</blockquote>
+<blockquote>
+<ol>
+  <li>Idea in someone’s head for a post (anyone) > </li>
+  <li>Creative team for approval to continue (all of creative team) > </li>
+  <li>Author Assigned (Blog Manager) ></li>
+  <li>Writing a rough draft (Author) > </li>
+  <li>Rough draft edit (Editor) > </li>
+  <li>Pith to creative team to continue (Author) > </li>
+  <li>Revise draft (Author) > </li>
+  <li>Edit draft (Editor) > </li>
+  <li>Final Edit (Editor) > </li>
+  <li>Write initial blog post (Web Designer) > </li>
+  <li>Send final edit of post to blog manager (Editor) > </li>
+  <li>Approves final draft (Blog Manager) > </li>
+  <li>Send final script for upload (web designer) > </li>
+  <li>Upload post to the local server (Web Designer) > </li>
+  <li>Pitch full post to team (Author) > </li>
+  <li>Published post on website (Web Designer)</li>
+  </blockquote>
 </br>
 
 Responsibilities-
