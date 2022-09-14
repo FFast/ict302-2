@@ -8,13 +8,15 @@ draft: false
 <style>
 .heading{
   text-align: center;
+  text-decoration: underline;
+
 }
 </style>
 </head>
 
 
 <p>
-<div class="">
+<div class="heading">
   <em>This was made in html</em>
 </div>
 
