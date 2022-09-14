@@ -6,13 +6,18 @@ draft: false
 <html>
 <head>
 <style>
+.heading{
+  text-alignment: center;
+}
 </style>
 </head>
 
 
 <p>
+<div class="">
+  <em>This was made in html</em>
+</div>
 
-<em>This was made in html</em>
 
 </br>
 Steps for a blog post-
