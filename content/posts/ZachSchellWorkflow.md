@@ -31,7 +31,7 @@ External Software-
 </br>
 
 Hugo Attributes-
-<blockquote>These attributes in some way help manage task flow and are offered on Hugo while could be in other things as well.</blockquote>
+<blockquote>These attributes in some way help manage task flow and are offered on Hugo while could be in other things as well. draft- for keeping a draft hiden before publishing, lastmod, to show last modified for the post, an author attribute to share the writer in a special way, adding in a publish date to prewrite and have the system auto upload on a time.</blockquote>
 </br>
 
 Considerations-
