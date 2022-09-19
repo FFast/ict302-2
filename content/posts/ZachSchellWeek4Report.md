@@ -1,6 +1,6 @@
 ---
 title: "Zach Schell Week 4"
-date: 2022-09-14T14:30:05-04:00
+date: 2022-09-19T09:30:05-04:00
 draft: false
 ---
 <html>
