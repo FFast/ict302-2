@@ -1,5 +1,5 @@
 ---
-title: "Zach Schell Workflow"
+title: "Zach Schell Personal Contract"
 date: 2022-09-23T15:25:05-04:00
 draft: false
 ---
