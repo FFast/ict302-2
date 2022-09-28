@@ -1,5 +1,5 @@
 ---
-title: "WordPressTinkering"
+title: "Zach Schell WordPress Tinkering"
 date: 2022-09-28T14:49:20-04:00
 draft: false
 ---
