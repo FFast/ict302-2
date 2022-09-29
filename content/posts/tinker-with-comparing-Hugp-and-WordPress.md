@@ -1,6 +1,6 @@
 ---
-title: "Tinker With Comparing Hugp and WordPress"
+title: "Tinker With Comparing Hugo and WordPress"
 date: 2022-09-29T07:55:35-04:00
 draft: true
 ---
-
+Hugo and WordPress are different in vaious of ways. For one the first thing I hade notice about the WordPress is that they had an comments section, which does make better for communication when building an website in sucha ways we are. I also noticed the that was a distinctive place where you can upload media within WordPress where I dont see provided for Hugo. I know there's probably code needed for users to upload such media entities. Also with WordPress you can see what you're page is looking like as you're going through the process of adding such things to it. While for Hugo you have to go through the local server to see whats outputted within your webpage. Both content management sites have main page to the websites and pages for the the posts individually. I beleive you can add tags to both sites though, there is a seperate section for that on WordPress, which probably makes it easier to find access certain posts. I don't mind the backcoding required for Hugo because that allows more options for personal customizations for the users of the sites. WordPress very much can do some thing that Hugo couldn't. Like, I had mentioned earlier theres access of communication within the WordPress site which wasn't avaible within Hugo. There's a way to create categories for posts which makes the up keep for posts easier and more accessible. 
