@@ -1,5 +1,5 @@
 ---
-title: "Griffin Socials Tinkering"
+title: "GriffinSocialsTinkering"
 date: 2022-10-05T15:16:59-07:00
 draft: false
 ---
