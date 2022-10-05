@@ -45,7 +45,7 @@ url = "https://twitter.com/GoHugoIO"
 
 [[params.ananke_socials]]
     name = "twitter"
-    url = "link_to_platform_account"
+    url = "https://twitter.com"
     follow = true
 [[params.ananke_socials]]
     name = "github"
