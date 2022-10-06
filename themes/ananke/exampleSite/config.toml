@@ -42,3 +42,16 @@ url = "https://twitter.com/GoHugoIO"
 
 [markup.goldmark.renderer]
     unsafe = true
+
+[[params.ananke_socials]]
+    name = "twitter"
+    url = "https://twitter.com"
+    follow = true
+[[params.ananke_socials]]
+    name = "github"
+    url = "link_to_platform_account"
+    follow = true
+[[params.ananke_socials]]
+    name = "stackoverflow"
+    url = "link_to_platform_account"
+    follow = true
