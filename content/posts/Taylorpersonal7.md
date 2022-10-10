@@ -6,6 +6,6 @@ draft: false
 
 <html>
 <body>
-<p>I can find and use resources for self-directed learning. This week I firgued out how to add a forum to the main navigation bar by creating a menu and adding ta custom link. THis wasnt clear at first, but after looking around I figured out the way to accomplish this.</p>
+<p>I can find and use resources for self-directed learning. This week I figured out how to add a forum to the main navigation bar by creating a menu and adding a custom link. This wasnt clear at first, but after looking around I figured out the way to accomplish this.</p>
 </body>
 </html>
