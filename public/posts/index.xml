@@ -1,31 +1,498 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on Group 2</title>
+    <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/</link>
+    <description>Recent content in Posts on Group 2</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 31 Aug 2022 15:33:00 -0400</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Oct 2022 15:16:22 -0400</lastBuildDate><atom:link href="https://clinquant-capybara-cbf8a8.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ZachSchell Post</title>
-      <link>http://example.org/posts/zachschell-post/</link>
-      <pubDate>Wed, 31 Aug 2022 15:33:00 -0400</pubDate>
+      <title>ZachschellTinker</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/zachschelltinkerlayout/</link>
+      <pubDate>Wed, 19 Oct 2022 15:16:22 -0400</pubDate>
       
-      <guid>http://example.org/posts/zachschell-post/</guid>
-      <description>This Markdown language is interesting. Zach Schell
-Start of Hugo Date: 8/21/2022 Today within Hugo we started an made the first post of content. This is all one content of a post, but the attributes can be diifrent.
-We have a title attribute, the date, and this body text.
-This is kinda cool once you get the hang of it -Zach Schell</description>
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/zachschelltinkerlayout/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Griff First Post</title>
-      <link>http://example.org/posts/griff-first-post/</link>
+      <title>Personal Report 8</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/zsweek8/</link>
+      <pubDate>Sun, 16 Oct 2022 21:44:44 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/zsweek8/</guid>
+      <description>This week within WordPress I got the home page fully set up and turned to be the front page when the site loads, I am proud that I can figure my way around WordPress some and able to start building a small site. The weeks Themes and Presentation was a thought when making the layout for the home page with the other pages. We want everything to flow well and We are achieving that.</description>
+    </item>
+    
+    <item>
+      <title>Group Report 8</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/groupreport8/</link>
+      <pubDate>Fri, 14 Oct 2022 21:44:44 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/groupreport8/</guid>
+      <description>This week within our group we made more progress in the WordPress website. The download button takes you to the download page and the plugin we are trying to put in should help us get the file to download from the home page. For the most part the page works very well, the forums page works well and then the pages mainly just need the text content to flow and a proper download.</description>
+    </item>
+    
+    <item>
+      <title>Taylorthemetinker</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/taylorthemetinker/</link>
+      <pubDate>Thu, 13 Oct 2022 16:18:09 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/taylorthemetinker/</guid>
+      <description>The theme I chose for this tinkering activity was terminal. It did not look as good as I thought it would, but i didnt know what felt off about it. It really helped nail home how presentation affects what information we see. The more a theme fits, the more corfortable reading the information at hand. If the theme is too over the top or looks bad, it detracts from the content itself.</description>
+    </item>
+    
+    <item>
+      <title>Tinker With Themes and CSS in Hugo</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/tinker-with-themes-and-css-in-hugo/</link>
+      <pubDate>Wed, 12 Oct 2022 16:20:57 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/tinker-with-themes-and-css-in-hugo/</guid>
+      <description>Today in class, we had to pick a theme from a gallery full of various Hugo themes. I decided to pick the theme m10c, which to me looked very techy-looking. Especially since we are making in fake Python website, I thought this was very suitable for our current project. Within this process, we had to download the selected theme within its Hugo theme folder. I clicked on the click-down of &amp;lsquo;code&amp;rsquo; and selected the option to download the zip.</description>
+    </item>
+    
+    <item>
+      <title>Zach Schell Tinker Presentation</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/zachschelltimkerpresentattion/</link>
+      <pubDate>Wed, 12 Oct 2022 13:45:17 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/zachschelltimkerpresentattion/</guid>
+      <description>So to switch the theme I followed the instructions on canvas and it was fairly simple. I used the Paper Mod theme on the Hugo themes page that I found and liked. It looked clean and simple setup and a bit different instead of boxes it is more rows for the posts. With presentation comes comfort. To add this onto the theme you can switch easily between light and dark mode depending on which one you like.</description>
+    </item>
+    
+    <item>
+      <title>Personal Report Module 7</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/personal-report-module-7/</link>
+      <pubDate>Mon, 10 Oct 2022 12:37:54 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/personal-report-module-7/</guid>
+      <description>I can identify and define key concepts in (web)content management. This week our group had to figure what type of socials would we like to connect to our site. So, we had checked the lists of sites that are compatible with WordPress and liek I had mentioned in my previous tinkeing post this past week we had decided on having an Twitter and GitHub account for our site. Our group also had created an homepage.</description>
+    </item>
+    
+    <item>
+      <title>Taylorpersonal7</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/taylorpersonal7/</link>
+      <pubDate>Mon, 10 Oct 2022 03:42:19 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/taylorpersonal7/</guid>
+      <description>I can find and use resources for self-directed learning. This week I figured out how to add a forum to the main navigation bar by creating a menu and adding a custom link. This wasnt clear at first, but after looking around I figured out the way to accomplish this.</description>
+    </item>
+    
+    <item>
+      <title>Zach Schell Module 7</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/zachsmod7/</link>
+      <pubDate>Sun, 09 Oct 2022 19:22:57 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/zachsmod7/</guid>
+      <description>This week we expanded more upon our site within WordPress and I figured out how to put a download button onto our home page to be able to link our python library to the home page.
+It was interesting to see how the social media implication on Hugo also made us think during our work day of what and where to put social links for our site.</description>
+    </item>
+    
+    <item>
+      <title>GroupPersRepM7</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/grouppersrepm7/</link>
+      <pubDate>Fri, 07 Oct 2022 17:27:08 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/grouppersrepm7/</guid>
+      <description>This week we worked on our Wordpress site. Last week, Zach and I threw names around, and the only snake related name we could come up with was ConstrictorChess. It took Taylor all of a minute to point out that CobraChess works much better. So we&#39;re making CobraChess now. The focus today was to kind of flesh out the site a bit. We&#39;ve decided on an up then out approach.</description>
+    </item>
+    
+    <item>
+      <title>GriffPersRepM7</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/griffpersrepm7/</link>
+      <pubDate>Fri, 07 Oct 2022 15:00:44 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/griffpersrepm7/</guid>
+      <description>This week we discussed the dichotomy between Hugo and Wordpress, two different content management systems. I definitely think Wordpress is easier, but if I wanted to make a website in a day, I would use Hugo. Soemthing I often say when asked about which programming language is best is that I think about them like different artistic mediums. Like, if you were doing a landscape, you could use oil, acryllic, or watercolor paints.</description>
+    </item>
+    
+    <item>
+      <title>Taylorsocialtinkering</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/taylorsocialtinkering/</link>
+      <pubDate>Thu, 06 Oct 2022 16:40:05 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/taylorsocialtinkering/</guid>
+      <description>Because our company is advertising a python library, most forms of social media don&#39;t exactly fit our image. There is no real benefit to advertise a python library on youtube, and definelty not on tiktok. The only soical media that we should consider would be twitter for social presence of the company, and maybe a link to the github.Social media incorparation doesnt exactly fit in with our theme, but it is helpful for any compnay to have at least some sort of social media presence.</description>
+    </item>
+    
+    <item>
+      <title>Tinkering With Social Media Intergration With Hugo</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/tinkering-with-social-media-intergration-with-hugo/</link>
+      <pubDate>Thu, 06 Oct 2022 10:18:28 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/tinkering-with-social-media-intergration-with-hugo/</guid>
+      <description>Yesterday in class we discussed about what social media accounts we woanted to be connected to our Hugo site. So, we statred listing know social media sites that can be connetced to our site. Now, so far I know that we had agreed on having Twitter and Github connected to our site. Unfornately though we were not able to create such interlinks between platforms. Which I know we will be able to complete sometime soon.</description>
+    </item>
+    
+    <item>
+      <title>GriffinSocialsTinkering</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/egsocialstinker/</link>
+      <pubDate>Wed, 05 Oct 2022 15:16:59 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/egsocialstinker/</guid>
+      <description>SocialsWe agreed that the imprtant socials for our hypothetical organization are GitHub and Twitter. Youtube, instagram, and facebook do not match the tone of out organization, and that goes double for tiktok. We have no need of video based content, and the informal nature of facebook undermines the professional vibes we want. I actually was resistant to adding twitter, but Zach made the good point that it could be like a companies official social media outlet.</description>
+    </item>
+    
+    <item>
+      <title>Zach Schell Social Media</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/zachschellsocialmedia/</link>
+      <pubDate>Wed, 05 Oct 2022 14:49:20 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/zachschellsocialmedia/</guid>
+      <description>The group today didn&#39;t really get how to put the social media tags on the Hugo website. We did figure out that having a twitter, GitHub, and maybe even a stack overflow links on our website might be good as a python library. The ability to share from the forums page as well would lead to the public being able to spread the work of forum posts for help. onto other media channels as a way so the company doesn&#39;t have to advertise themselves on their.</description>
+    </item>
+    
+    <item>
+      <title>Module 6 Personal Report</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/module-6-personal-report/</link>
+      <pubDate>Mon, 03 Oct 2022 13:27:50 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/module-6-personal-report/</guid>
+      <description>I can describe and compare content management systems. This past week we had just started working/exploring the WordPress platform. We got to explore some of the most notable functions of WordPress, for one like I had mentioned on my tinkering assignment last week, I had noticied how there an accessibility of open communication within this particular CMS. Unlike the previous CMS we have worked on, Hugo, which doesnt have a place for commentary amongust users.</description>
+    </item>
+    
+    <item>
+      <title>TaylorReport6</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/taylorreport6/</link>
+      <pubDate>Mon, 03 Oct 2022 05:11:12 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/taylorreport6/</guid>
+      <description>I can find and use resources for self-directed learning. This week I looked for a way to add forum capability to our wordpress site. Through my research I found bbPress, which was a wordpress plugin that adds a highly rated forum capability. </description>
+    </item>
+    
+    <item>
+      <title>Groupmod6</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/groupmod6/</link>
+      <pubDate>Fri, 30 Sep 2022 15:59:53 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/groupmod6/</guid>
+      <description>This week our group started our wordpress site and figured out who would have what permissions to the site. We decided everyone would have the same permissions at the start, and if we need to change it, we will. WE also chose a theme, Neve and downloaded the bbPress plugin to have the ability to create a forum.</description>
+    </item>
+    
+    <item>
+      <title>Tinker With Comparing Hugo and WordPress</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/tinker-with-comparing-hugp-and-wordpress/</link>
+      <pubDate>Thu, 29 Sep 2022 07:55:35 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/tinker-with-comparing-hugp-and-wordpress/</guid>
+      <description>Hugo and WordPress are different in various ways. The first thing I noticed about WordPress is that it had a comments section, which makes it better for communication when building a website, in such ways as we are doing in class. I also noticed that there&amp;rsquo;s a place to upload media within WordPress that I don&amp;rsquo;t see provided for Hugo, which I know there is probably code needed for users to upload such media entities.</description>
+    </item>
+    
+    <item>
+      <title>Griff0928HugovWP</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/griff0928hugovwp/</link>
+      <pubDate>Wed, 28 Sep 2022 15:09:58 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/griff0928hugovwp/</guid>
+      <description>In Hugo, the primary things I can do are making new posts, and editing with inline HTML. I already knew how to do both of these in Wordpress, but I do like the terminal focus of Hugo. Maybe it just makes me feel like I&#39;m in War Games, but I kinda liked the way Hugo worked. That said, Wordpress is way easier. That said, if I were going to build a website in a day, I would use Hugo.</description>
+    </item>
+    
+    <item>
+      <title>Zach Schell WordPress Tinkering</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/zachschellwordpresstinkering/</link>
+      <pubDate>Wed, 28 Sep 2022 14:49:20 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/zachschellwordpresstinkering/</guid>
+      <description>Within Hugo we have been able to make a blog website to upload these posts very simply within a design. WordPress also has a similar format of themes that lay out posts before hand for you. My favorite feature of the Hugo that we have found thus far is the implementation of html into the coding which to me personally is much easier and made it much simpler. The feasibility that Hugo gives to change attributes like the title, date, and whether or not it was live.</description>
+    </item>
+    
+    <item>
+      <title>Personal Report 5</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/personal-report-5/</link>
+      <pubDate>Mon, 26 Sep 2022 12:55:58 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/personal-report-5/</guid>
+      <description>I can compare content management systems. Last week our class was exposed to the backcoding of Hugo. We got to see the complexity of the code to make certain customizations. This give us an idea of what we could see in WordPress but with more simplicity.</description>
+    </item>
+    
+    <item>
+      <title>Taylorweek5</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/taylorweek5/</link>
+      <pubDate>Mon, 26 Sep 2022 04:22:27 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/taylorweek5/</guid>
+      <description>The &#34;I can&#34; statement for thsi week would be I can find resources for self-directed learning. When dividning up the groupwork into differnet tasks, I was given the role of creating a forum for the website. Because of this I went to other companies forums to investigate how theirs worked, as well as looking up tutorials on how to make and manage a forum.</description>
+    </item>
+    
+    <item>
+      <title>ZachSchellWeek5</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/zachschellweek5/</link>
+      <pubDate>Fri, 23 Sep 2022 15:28:50 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/zachschellweek5/</guid>
+      <description>This week we got personal contracts done and laid out our roles as what we will do on the site so that everyone is involved and we are organized. I will do the Home and Downloads page and feel confident doing those pages and the navigation. </description>
+    </item>
+    
+    <item>
+      <title>Zach Schell Personal Contract</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/zach_schell_personal_contract/</link>
+      <pubDate>Fri, 23 Sep 2022 15:25:05 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/zach_schell_personal_contract/</guid>
+      <description>What Would A Work BeThe Home and download pages fit well, navigation on all pages, and there is an available download also on the home page for easy access. There are no grammar issues and everything flows well. Delivered to Editor (Taylor) well before due date with time to check and do several revisions. Well edited over Griff&#39;s posts and there are no editing issues there.What Would B Work BeThe pages get done and but they don&#39;t flow so well, no download easily accessible on the home page, there is navigation on the page and it is styled.</description>
+    </item>
+    
+    <item>
+      <title>Group Report for Module 5</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/group-report-for-module-5/</link>
+      <pubDate>Fri, 23 Sep 2022 15:20:28 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/group-report-for-module-5/</guid>
+      <description>This week our class did an dummy group website in Hugo. Introduced to this assignment by an Anake sample site and its code for the cite. The goal of the assignment was to see the amount of work goes into making code for a decently designed and coordinated Hugo site. For today we started creating our Personal Contracts. But, before we had did so we had discussed what roles and pages that we would be creating or doing.</description>
+    </item>
+    
+    <item>
+      <title>TaylorPersonalContract</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/taylorpersonalcontract/</link>
+      <pubDate>Fri, 23 Sep 2022 15:19:46 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/taylorpersonalcontract/</guid>
+      <description>Our group has decided to take a content specific approach with the way we will divide the work. Each person is in charge of creating one page for the website, with the exception of one person, who will create 2. I will be in charge of creating the forum page, which will allow users to interact with the company and each other in order to better use our product. It will help users troubleshoot problems they may have and ask the community questions in a public format.</description>
+    </item>
+    
+    <item>
+      <title>Griffin Personal Contract</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/griffpersonalcontact/</link>
+      <pubDate>Fri, 23 Sep 2022 15:11:33 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/griffpersonalcontact/</guid>
+      <description>I will do the Documentation page. This will include at least 5 functions, with examaples and usage. Zach will cover the header with the Home Page, and the Download page. It is my responsibility that my page includes what we agreed to, and flows with the rest of the site, in terms of style. Including the mentioned items will result in a B, and an A if they fit witht he style of the site (as outlined in the group contract).</description>
+    </item>
+    
+    <item>
+      <title>Grider&#39;s Initial Personal Contract</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/my-initial-personal-contract/</link>
+      <pubDate>Fri, 23 Sep 2022 15:05:54 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/my-initial-personal-contract/</guid>
+      <description>A I will create and develop a thorough description of what our palecbo companys (about page). I will descirbe details of our team, what our mission is, how we are going about this mission and how we support our community within python. The design of this page should be something beyond suitable for our group.B I will create a sufficent about page give some details of our mission of our teams background, mission, path towards mission and support.</description>
+    </item>
+    
+    <item>
+      <title>Dummy Hugo Site</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/dummy-hugo-site/</link>
+      <pubDate>Thu, 22 Sep 2022 14:10:07 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/dummy-hugo-site/</guid>
+      <description>This week we had created a dummy hugo site version of WordPress. In order to have an idea of our goal with this dummy site we had looked over an example of Hugo, which had extensive coding. After looking over such sample our tech lead had decided for us to make an version of WordPress thorugh a new hugo site. I had a bit of trouble to figuring the ends and outs of it.</description>
+    </item>
+    
+    <item>
+      <title>GriffPersonalReflection918</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/griffpersonalreflection918/</link>
+      <pubDate>Mon, 19 Sep 2022 10:17:24 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/griffpersonalreflection918/</guid>
+      <description>I can find and use resources for self-directed learningThis week one of the things I completed was enabling Hugo posts to be written in HTML. This is usefule because many nerds enjoy writing in HTML, and having to use Markdown is a little like asking Picasso to paint a fence. Yeah, he can do it, but he&#39;s gonna be pissed he can&#39;t do what he&#39;s really trained for. To do this, I had to read through the Hugo documentation, and understand how Hugo worked.</description>
+    </item>
+    
+    <item>
+      <title>Zach Schell Week 4</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/zachschellweek4report/</link>
+      <pubDate>Mon, 19 Sep 2022 09:30:05 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/zachschellweek4report/</guid>
+      <description>This was made in htmlThis week we started looking over how we would work together as a team effectively. We did this by setting up a Microsoft Teams group so that we could lay out tasks and assign them to each other to be able to see where we are the different steps. </description>
+    </item>
+    
+    <item>
+      <title>Taylorpersonalreportmod4</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/taylorpersonalreportmod4/</link>
+      <pubDate>Mon, 19 Sep 2022 03:06:59 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/taylorpersonalreportmod4/</guid>
+      <description>I can identify and employ technologies to content management. A great example of a technology would be what we set up in class this week, Microsoft Teams. Teams will allow us to keep track of everything we need to do and stay organized, while also keeping in communication with each other.</description>
+    </item>
+    
+    <item>
+      <title>Personal Report 4</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/personal-report-4/</link>
+      <pubDate>Sun, 18 Sep 2022 23:17:48 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/personal-report-4/</guid>
+      <description>I can identify and employ technologies related to content management. This week we had set up our groups workflow for our WordPress website. I had started an outline of the workflow on Microsoft Teams. Where I had broken up the process of making content in pieces. For example, the main buckets I had made were: To Do, Drafts, In Progress, Need For Edits, and Finished.</description>
+    </item>
+    
+    <item>
+      <title>Mod4groupreport</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/mod4groupreport/</link>
+      <pubDate>Fri, 16 Sep 2022 15:24:13 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/mod4groupreport/</guid>
+      <description>Today, we made a teams space for out group. From there, we discussed what we envisioned for the workflow. First, we will set up the site. Things like the theme, setting up the github, and determining the domain. We discussed what would eb on the site, such as the home, download, about, and support pages. We anticipated the most complex page to be the download page, as downloading something is not something many of us are familiar with.</description>
+    </item>
+    
+    <item>
+      <title>HugoTinkerWorkflowTaylor</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/hugotinkerworkflowtaylor/</link>
+      <pubDate>Wed, 14 Sep 2022 22:12:16 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/hugotinkerworkflowtaylor/</guid>
+      <description>Workflow ProcessConcept of post/blog(anyone involved/creative team)Draft of written content/addign tags to categorize post(writers, with use of the true function on hugo)Dates for content to be published on(using hugo publishDate feature by publisher)Create the ability to see previously updated info(using lastmod by writers)Writing of core info(writers)Making sure core info is correct and ready to post(editors)Add an expiration date for post staying on main page (expiryDate-hugo/Publisher)Move to archives(if needed) (aliases-hugo)Some helpful additions to this workflow would be the use of microsoft word or a similar text editor, and a communication/organzation software such as slack or basecamps to help keep everyone on the same page.</description>
+    </item>
+    
+    <item>
+      <title>Griff&#39;s Tinkering 9/14</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/griffstinkering914/</link>
+      <pubDate>Wed, 14 Sep 2022 17:00:28 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/griffstinkering914/</guid>
+      <description>Theoretical WorkflowWorkshoppingThe first step is to determine the full scope of the content. This would be storyboarding, making blueprints, or other technical details of what the content will look like in the end. By the end of this, there should be a clear understanding of what the final product will look like, or at least what it will do. Depending on the content, this would include creatives, designers, various support personel.</description>
+    </item>
+    
+    <item>
+      <title>Work Flow Process</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/work-flow-process/</link>
+      <pubDate>Wed, 14 Sep 2022 15:21:52 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/work-flow-process/</guid>
+      <description>List of steps/people that are needed to complete an proper workflow process includes:
+Coming up with concept/idea of post (any position could do this; possibly creative team) Creation of brief description/draft (writer,with the use of the true feature on hugo.) Sets date to be published (publishDate-hugo/Publisher) Creates space for updates (lastmod-hugo/Writer) Writing out details of concept (writer) Edits concept of post (editor) Makes sure to clean up grammatic errors (writer) Has an expiration date for post staying on main page (expiryDate-hugo/Publisher) Move to archives(if needed) (aliases-hugo/Informational Architect) </description>
+    </item>
+    
+    <item>
+      <title>Zach Schell Workflow</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/zachschellworkflow/</link>
+      <pubDate>Wed, 14 Sep 2022 14:30:05 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/zachschellworkflow/</guid>
+      <description>This was made in htmlSteps for a blog post-Idea in someone’s head for a post (anyone) &gt; Creative team for approval to continue (all of creative team) &gt; Author Assigned (Blog Manager) &gt;Writing a rough draft (Author) &gt; Rough draft edit (Editor) &gt; Pith to creative team to continue (Author) &gt; Revise draft (Author) &gt; Edit draft (Editor) &gt; Final Edit (Editor) &gt; Write initial blog post (Web Designer) &gt; Send final edit of post to blog manager (Editor) &gt; Approves final draft (Blog Manager) &gt; Send final script for upload (web designer) &gt; Upload post to the local server (Web Designer) &gt; Pitch full post to team (Author) &gt; Published post on website (Web Designer)Responsibilities-I could see steps seven and eight being looped back between the author and the editors to get the post worded properly before the post could be published to the site.</description>
+    </item>
+    
+    <item>
+      <title>HyperTest</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/hypertest/</link>
+      <pubDate>Mon, 12 Sep 2022 14:44:55 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/hypertest/</guid>
+      <description>This is a test. This should look normalish. Go Cats!</description>
+    </item>
+    
+    <item>
+      <title>Taylorpersonalreportmod3</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/taylorpersonalreportmod3/</link>
+      <pubDate>Mon, 12 Sep 2022 05:18:45 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/taylorpersonalreportmod3/</guid>
+      <description>The I can statement for this module will be &amp;ldquo;I can identify and employ technologies related to content management&amp;rdquo;. A big part of the workforce is establishing good communication with the team you are working with. BEcause of this there are programs used in the workforce to keep everyone organized such as slack and basexamps, which was talked about in the interview with Madeline Greenhalgh.</description>
+    </item>
+    
+    <item>
+      <title>ZachSchellWeek3</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/zachschellweek3/</link>
+      <pubDate>Sun, 11 Sep 2022 19:22:57 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/zachschellweek3/</guid>
+      <description>This week we made a rubric for our groups project for this semester. This is part of our self directed learning to give our self a goal to have to reach and hopefully exceed our expectations for our group.</description>
+    </item>
+    
+    <item>
+      <title>Aaliyah&#39;s Personal Report</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/aaliyahs-personal-report/</link>
+      <pubDate>Fri, 09 Sep 2022 15:37:22 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/aaliyahs-personal-report/</guid>
+      <description>I can find and use resources for self-directed learning. This week our group has completed our intial Group Contract. Which is a published Hugo Post that is defining our group work for the fututre in terms of futher working on our project. In this evalution guideline, we have a grade that correlates to a certain standard of perfomance, which is written form grades A to E. The reason I would say this gudieline is a example of a rescource for such self-directed learning is becuase our group will try our best to work within the standards that we have referred from the guideline.</description>
+    </item>
+    
+    <item>
+      <title>Group Contract</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/group-contract/</link>
+      <pubDate>Fri, 09 Sep 2022 15:22:38 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/group-contract/</guid>
+      <description>Today we discussed what constitutes various grades of work.
+A All features/items implemented, and it adds to the flow of the website.
+B All features/items implemented, functions on its own, but does not flow with the rest of the website.
+C Some features/items implemented with limited success, and it detracts from the flow of the website.
+D Missing features/items, failed implementation on multiple items.
+E Complete lack of submission for assignment.</description>
+    </item>
+    
+    <item>
+      <title>GroupReportMod3</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/groupreportmod3/</link>
+      <pubDate>Fri, 09 Sep 2022 15:22:31 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/groupreportmod3/</guid>
+      <description>This week in class we started making the group contract and have a solid idea for the website we would like to make. The idea is going well for designing the website with the idea of a product that is a python library that people could download from a website that shows the purpose, describes the use, and access to a Q&amp;amp;A section. We hope to assign roles soon and get started making the website.</description>
+    </item>
+    
+    <item>
+      <title>TAylorpersonalreportmod2</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/taylorpersonalreportmod2/</link>
+      <pubDate>Tue, 06 Sep 2022 20:14:23 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/taylorpersonalreportmod2/</guid>
+      <description>In this module we learned how to add content to our group hugo page. THis relates to the &amp;ldquo;I Can&amp;rdquo; statment about defining key concepts in content management. I can identify and define key concepts in contnent management by having basic knowledge on how the information is added and structured.</description>
+    </item>
+    
+    <item>
+      <title>Aaliyah&#39;s Personal Report</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/my-personal-report/</link>
+      <pubDate>Mon, 05 Sep 2022 22:02:59 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/my-personal-report/</guid>
+      <description>I can identify and employ technologies related to content management. This week I have discovered my abilities to be able to make sufficent blog type posts like this one. While some of the steps where a bit complicated, I had learned what code I needed to do to create an new page. Once, I had discovered that I did have bit of an problem figuruing out on how to get this post onto the our Hugo page.</description>
+    </item>
+    
+    <item>
+      <title>Group Report Module 2</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/group-report-mod2/</link>
+      <pubDate>Fri, 02 Sep 2022 16:02:33 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/group-report-mod2/</guid>
+      <description>For module 2 , our group made sure everyone was caught up with the first assignment, as well as make sure everyone could view and upload content to the hugo site. We are also working on setting up a groupme so we can maintain easier communication.</description>
+    </item>
+    
+    <item>
+      <title>Aaliyah&#39;s First Entry</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/my-first-entry/</link>
+      <pubDate>Fri, 02 Sep 2022 15:35:54 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/my-first-entry/</guid>
+      <description>For this week we had an lecture on the content modeling. Before even working on content modeling I had question if the background for such subject would be equivalent to informational architecture. Within this conent modeling lecture we talked about the parts of model and what is the visble needed content to create an post which is title, timestamp, post and tags.
+Even while creating this post I realized how comes into creating content and how having such platform can be has to be handle with deep thoughts.</description>
+    </item>
+    
+    <item>
+      <title>Taylor Biggs First Post</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/taylor-biggs-first-post/</link>
+      <pubDate>Fri, 02 Sep 2022 15:20:18 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/taylor-biggs-first-post/</guid>
+      <description>Using hugo gives you a nice perspective on how websites work on a basic level. Everyone these days interacts with some sort of website, many could be made using hugo. It is very interesting being able to see the backend and see the kinds of products you can create</description>
+    </item>
+    
+    <item>
+      <title>Zach Schell Post</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/zachschell-post/</link>
+      <pubDate>Wed, 31 Aug 2022 15:33:00 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/zachschell-post/</guid>
+      <description>Date: 8/21/2022:
+Today within Hugo we started and made the first post of content. Form this I Can see a different content model than what I am use to and work with it. This is all one content of a post, but the attributes can be different. We have a title attribute, the date, and this body text which while all in the same post and all text they have different attributes.</description>
+    </item>
+    
+    <item>
+      <title>Griff&#39;s First Post</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/griff-first-post/</link>
       <pubDate>Wed, 31 Aug 2022 15:24:47 -0400</pubDate>
       
-      <guid>http://example.org/posts/griff-first-post/</guid>
-      <description></description>
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/griff-first-post/</guid>
+      <description>I am once again pondering the validity of the assertion that HTML, XML, and other such markdown languages are &amp;ldquo;real&amp;rdquo; programming langages. Now, this is a bit pedantic but, as these things tend to be, the subject of much debate. The reason for this is that if one uses a real programming language, then they are a real programmer.</description>
+    </item>
+    
+    <item>
+      <title>Zach Schell Post</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/posts/zachschellpersonalpost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/posts/zachschellpersonalpost/</guid>
+      <description>Date: 9/8/2022:
+This week we started working with Hugo to make a webpage for our posts. Hugo was new to each person in the group and we all seem to have worked through it and got it done. Working with a mainly text content system reminds me of an early twitter and it&amp;rsquo;s nice.
+-Zach Schell</description>
     </item>
     
   </channel>
