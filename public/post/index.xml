@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Group 2</title>
+    <link>https://clinquant-capybara-cbf8a8.netlify.app/post/</link>
+    <description>Recent content in Posts on Group 2</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 18 Sep 2022 23:17:48 -0400</lastBuildDate><atom:link href="https://clinquant-capybara-cbf8a8.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Personal Report 4</title>
+      <link>https://clinquant-capybara-cbf8a8.netlify.app/post/personal-report-4/</link>
+      <pubDate>Sun, 18 Sep 2022 23:17:48 -0400</pubDate>
+      
+      <guid>https://clinquant-capybara-cbf8a8.netlify.app/post/personal-report-4/</guid>
+      <description>I can identify and employ technologies related to content management. This week we had set up our groups workflow for our WordPress website. I had started an outline of the workflow on Microsoft Teams.</description>
+    </item>
+    
+  </channel>
+</rss>
