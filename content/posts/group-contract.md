@@ -27,7 +27,7 @@ The Download, About us, Documentation, Home, and Forum page are implemented with
 
 # D 
 
-Missing/ imcomplete pages, failed implementation on multiple items.
+Missing/ incomplete pages, failed implementation on multiple items.
 
 ---
 
