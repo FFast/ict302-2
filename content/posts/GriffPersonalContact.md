@@ -6,7 +6,9 @@ draft: false
 <html>
 
 <body>
+    <h3>Previous Personal Contract:</h3>
     <p>   I will do the Documentation page. This will include at least 5 functions, with examaples and usage. Zach will cover the header with the Home Page, and the Download page. It is my responsibility that my page includes what we agreed to, and flows with the rest of the site, in terms of style. Including the mentioned items will result in a B, and an A if they fit witht he style of the site (as outlined in the group contract). I will not publish anything until Zach looks it over.</p>
+    <h3>Group Contract:</h3>
 </body>
 
 </html>
