@@ -9,25 +9,25 @@ Today we discussed what constitutes various grades of work.
 
 # A 
 
-All features/items implemented, and it adds to the flow of the website.
+The Download, About us, Documentation, Home, and Forum page all are implemented correctly and are functional. Every item flows well into the others, has a consistent theme across all pages. 
 
 ---
 
 # B
 
-All features/items implemented, functions on its own, but does not flow with the rest of the website. 
+The Download, About us, Documentation, Home, and Forum page all are implemented correctly and are functional. There are some issues present where the content on a page does not flow with the rest of the website. 
 
 ---
 
 # C 
 
-Some features/items implemented with limited success, and it detracts from the flow of the website.
+The Download, About us, Documentation, Home, and Forum page are implemented with limited success, pages very visibly detract from the flow of the website.
 
 ---
 
 # D 
 
-Missing features/items, failed implementation on multiple items.
+Missing/ incomplete pages, failed implementation on multiple items.
 
 ---
 

@@ -1,6 +1,6 @@
 baseURL = 'https://clinquant-capybara-cbf8a8.netlify.app/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Group 2'
 theme = 'ananke'
 
 [markup.goldmark.renderer]
