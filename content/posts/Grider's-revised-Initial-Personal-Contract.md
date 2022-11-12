@@ -1,7 +1,7 @@
 ---
 title: "Grider's Revised Initial Personal Contract"
 date: 2022-11-12T18:31:47-05:00
-draft: true
+draft: false 
 ---
 A 
 I will create and develop a thorough description of what our placebo company (About Page). I will descirbe the roles of our team, our mission, and our approach to executing mission and a breif but detailed message of our support to the python leanring community. The design should be a very auitable for our group. 
