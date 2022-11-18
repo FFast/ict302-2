@@ -5,7 +5,7 @@ draft: false
 ---
 <p>
 A <br/>
-I will create and develop a thorough description of what our placebo company (About Page). I will descirbe the roles of our team, our mission, and our approach to executing mission and a breif but detailed message of our support to the python leanring community. The design should be a very auitable for our group. 
+I will create and develop a thorough description of what our placebo company (About Page). I will describe the roles of our team, our mission, and our approach to executing mission and a breif but detailed message of our support to the python learning community. The design should be a very suitable for our group. 
 
 B <br/>
 I will create a adequate about page. Providing some details of our mission, our teams roles, and approach to mission and support. Along with a well laid out page design. 
@@ -19,3 +19,8 @@ I will create a short statement of team within About Page. I won't include detai
 E <br/>
 I wont have anything provided for our About Page. Nor design. 
 </p>
+
+
+Differences from Orginal Contract:
+ 
+I didn't make any drastic changes from the original contract.The reason I say this is because I feel that my original guidelines has great measurements into what each grade should look like.  I only changed the wording of some of the guidelines for each grade level, I only did to lighten up the expectations for the level. The reason for this is because I'm starting to realizing my limitations and skill level of meeting such expectations. I dont necessarily. For example, I dont necessarily know how to do design within wordpress but within that i've realized that our groups theme somewhat takes care of soem designing details. At this point I feel like I'm on the track to get a B+.
